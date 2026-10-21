@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1741B64C-1B6B-413A-9F3A-2209156B5009}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1741B64C-1B6B-413A-9F3A-2209156B5009}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1741B64C-1B6B-413A-9F3A-2209156B5009}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1741B64C-1B6B-413A-9F3A-2209156B5009}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\alumno_clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\alumno_clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +51,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Idioma.cs",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Idioma.cs",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Idioma.cs",
+              "RelativeToolTip": "Escuela_Idiomas\\Idioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:15:55.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno_Clase.cs",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Alumno_Clase.cs",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Alumno_Clase.cs",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Alumno_Clase.cs",
+              "RelativeToolTip": "Escuela_Idiomas\\Alumno_Clase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:15:20.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Clase.cs",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Clase.cs",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Clase.cs",
+              "RelativeToolTip": "Escuela_Idiomas\\Clase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:14:33.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Matricula.cs",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Matricula.cs",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Matricula.cs",
+              "RelativeToolTip": "Escuela_Idiomas\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:13:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Alumno.cs",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Alumno.cs",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Alumno.cs",
+              "RelativeToolTip": "Escuela_Idiomas\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:12:16.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Profesor.cs",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Profesor.cs",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Profesor.cs",
+              "RelativeToolTip": "Escuela_Idiomas\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:05:31.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Escuela_Idiomas\\MainWindow.xaml",
@@ -38,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Escuela_Idiomas\\MainWindow.xaml.cs",
@@ -46,8 +148,7 @@
               "RelativeToolTip": "Escuela_Idiomas\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T06:56:14.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T06:56:14.283Z"
             }
           ]
         }

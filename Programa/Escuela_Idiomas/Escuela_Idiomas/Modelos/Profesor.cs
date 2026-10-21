@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Escuela_Idiomas
+namespace Escuela_Idiomas.Modelos
 {
-    public class Alumno
+    public class Profesor
     {
-        public int IdAlumno { get; set; }
+        public int IdProfesor { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public byte Edad { get; set; }
@@ -14,5 +14,6 @@ namespace Escuela_Idiomas
         public string? Telefono2 { get; set; }
         public string Correo { get; set; }
         public string? Correo2 { get; set; }
+        public int IdIdioma { get; set; }
     }
 }

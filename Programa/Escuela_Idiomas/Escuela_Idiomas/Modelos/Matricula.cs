@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Escuela_Idiomas
+namespace Escuela_Idiomas.Modelos
 {
     public class Matricula
     {
