@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Procesador_Info_Esc_Idiom\\Procesador_Info_Esc_Idiom.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Escuela_Idiomas\\Escuela_Idiomas.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

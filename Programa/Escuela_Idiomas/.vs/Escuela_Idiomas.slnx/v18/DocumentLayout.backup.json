@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|c:\\users\\pmaza\\desktop\\cosas\\desafio_escuelaidiomas\\desafio_escuelaidiomas\\programa\\escuela_idiomas\\escuela_idiomas\\vistas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A71F42F-A986-A5F3-150D-FF2CB396E4F8}|Escuela_Idiomas\\Escuela_Idiomas.csproj|solutionrelative:escuela_idiomas\\vistas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Window1.xaml",
+              "RelativeDocumentMoniker": "Escuela_Idiomas\\Window1.xaml",
+              "ToolTip": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Window1.xaml",
+              "RelativeToolTip": "Escuela_Idiomas\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-21T07:55:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pmaza\\Desktop\\Cosas\\Desafio_EscuelaIdiomas\\Desafio_EscuelaIdiomas\\Programa\\Escuela_Idiomas\\Escuela_Idiomas\\Vistas\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Escuela_Idiomas\\Vistas\\MainWindow.xaml.cs",

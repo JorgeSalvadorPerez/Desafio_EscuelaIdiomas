@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Escuela_Idiomas/Escuela_Idiomas.csproj" />
+  <Project Path="Procesador_Info_Esc_Idiom/Procesador_Info_Esc_Idiom.csproj" Id="aef56223-8d1c-4d4b-af08-e5e196d9ce81" />
 </Solution>
