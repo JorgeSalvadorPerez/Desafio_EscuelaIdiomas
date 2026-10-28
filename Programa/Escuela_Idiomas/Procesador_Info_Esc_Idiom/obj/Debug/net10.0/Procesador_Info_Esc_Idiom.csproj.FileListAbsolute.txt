@@ -1,0 +1,16 @@
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\bin\Debug\net10.0\Procesador_Info_Esc_Idiom.exe
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\bin\Debug\net10.0\Procesador_Info_Esc_Idiom.deps.json
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\bin\Debug\net10.0\Procesador_Info_Esc_Idiom.runtimeconfig.json
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\bin\Debug\net10.0\Procesador_Info_Esc_Idiom.dll
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\bin\Debug\net10.0\Procesador_Info_Esc_Idiom.pdb
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.AssemblyInfoInputs.cache
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.AssemblyInfo.cs
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.csproj.CoreCompileInputs.cache
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.sourcelink.json
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.dll
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\refint\Procesador_Info_Esc_Idiom.dll
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.pdb
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesador_Info_Esc_Idiom.genruntimeconfig.cache
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\ref\Procesador_Info_Esc_Idiom.dll
+C:\Users\pmaza\Desktop\Cosas\Desafio_EscuelaIdiomas\Desafio_EscuelaIdiomas\Programa\Escuela_Idiomas\Procesador_Info_Esc_Idiom\obj\Debug\net10.0\Procesad.43300E36.Up2Date

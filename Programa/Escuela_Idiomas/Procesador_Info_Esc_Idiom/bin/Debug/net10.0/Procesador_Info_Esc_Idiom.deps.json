@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Procesador_Info_Esc_Idiom/1.0.0": {
+        "runtime": {
+          "Procesador_Info_Esc_Idiom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Procesador_Info_Esc_Idiom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
